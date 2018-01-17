@@ -5,6 +5,6 @@
             {"target": "www.baidu.com:80", "module": "tcp_connect"},
             {"target": "www.baidu.com", "module": "http_2xx"}
         ],
-     "url": "http://116.196.87.130:9091",
+     "url": "http://ip:9091",
      "instance": "test"
 }
